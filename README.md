@@ -2,7 +2,7 @@
 ## Welcome!
 - My interests: `Robotics`, `AI/ML`, `Full-Stack Web Development` and mainly `Tennis`
 - What can I do? `Everything` (will learn to do things I cannot)
-- Currently Learning: `Rust`, `Python`, `Modern Robotics` and some `AI/ML libraries`
+- Currently Learning: `ROS2`, `Python`, `Modern Robotics` and `Gazebo`
 - Plan: To Contribute to open-source and Building a Robotic Arm as part of CodeFlux in collaboration with Gitam Aero Astro Club.
 - Contact Me: parthiv.sk.pedapati@gmail.com
 - 😄 Pronouns: He/Him
