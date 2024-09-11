@@ -6,7 +6,6 @@
 - Plan: To Contribute to open-source and Building a Robotic Arm as part of CodeFlux in collaboration with Gitam Aero Astro Club.
 - Contact Me: parthiv.sk.pedapati@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: `I am a Genius with a lot to learn.`
 
 My motto:
 ```
