@@ -1,6 +1,6 @@
 # Hi there, I'm SKParthiv! 👋
 
-A Learner with a current interest in Human-Computer Interfaces, Computer Vision, Computer Graphics, AR/VR/MR Tech, Computer Architecture, Robotics, IoT, Embedded systems, UAVs, and Real Analysis Mathematics.
+An Aspiring Engineer that wants to solve real world Problems and found tech to be a versatile tool for that. Therefore started learning tech, with a current interest in Human-Computer Interfaces, Computer Vision, Computer Graphics, AR/VR/MR Tech, Computer Architecture, Robotics, IoT, Embedded systems, UAVs, and Real Analysis Mathematics.
 
 ## 🚀 About Me
 
