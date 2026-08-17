@@ -1,10 +1,10 @@
 # Hi there, I'm SKParthiv! 👋
 
-A Learner with a current interest in Human-Computer Interfaces, Computer Vision, Computer Graphics, AR/VR/MR Tech, Computer Architecture, and Real Analysis Mathematics.
+A Learner with a current interest in Human-Computer Interfaces, Computer Vision, Computer Graphics, AR/VR/MR Tech, Computer Architecture, Robotics, IoT, Embedded systems, UAVs, and Real Analysis Mathematics.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Mathematics**, **Computer Graphics**, **Computer Architecture**
+- 🌱 I’m currently learning **Engineering Mathematics**, **Robotics**, **ROS2**, **Linux**, **Fusion360**, **PCB Designing**
 - 📫 How to reach me: **parthiv.sk.pedapati@gmail.com**
 - ⚡ Fun fact: I enjoy playing tennis a LOT.
 
