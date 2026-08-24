@@ -1,6 +1,6 @@
-S. K. Parthiv Pedapati
+# S K Parthiv Pedapati
 
-Engineering Student · Robotics · Autonomous Systems · Distributed Intelligence
+**Engineering Student** · **Robotics** · **Autonomous Systems** · **Distributed Intelligence**
 
 I am an engineering student interested in building physical systems that can operate intelligently in the real world.
 
