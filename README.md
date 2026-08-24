@@ -1,206 +1,294 @@
-# S K Parthiv Pedapati
+# S. K. Parthiv Pedapati
 
-**Engineering Student** · **Robotics** · **Autonomous Systems** · **Distributed Intelligence**
+**Engineering Student · Robotics · Autonomous Systems · Distributed Intelligence**
 
-I am an engineering student interested in building physical systems that can operate intelligently in the real world.
+I am an engineering student interested in **solving real-world problems through engineering**.
 
-My current focus is at the intersection of:
+I am particularly drawn to problems where software, algorithms, and physical systems have to operate under real-world constraints — uncertainty, imperfect information, limited computation, communication limitations, changing environments, and hardware constraints.
+
+My current interests are centered around:
 
 - 🤖 Robotics & Autonomous Systems
-- 🐝 Multi-Agent / Swarm Systems
+- 🐝 Multi-Agent & Swarm Systems
 - 🌐 Decentralized Coordination
-- 🧠 Robot Learning & Task Adaptation
+- 🧠 Robot Learning & Adaptation
 - ⚙️ Embedded & Edge Computing
 - 🔬 Systems-oriented Research
 
-I am particularly interested in a question that sits underneath many of these areas:
+---
 
-«How can a group of autonomous machines make useful decisions with limited information, computation, and communication?»
+## How I Approach Problems
+
+I am interested in building things, but I do not want to treat the technology behind them as a black box.
+
+When working on a real-world problem, I want to understand:
+
+- **What is actually causing the problem?**
+- **Why do existing approaches work?**
+- **What assumptions do they make?**
+- **Where do those assumptions break down?**
+- **What constraints appear when the system leaves a controlled environment?**
+- **Can the solution be made more efficient, reliable, scalable, or practical?**
+
+For me, the process looks something like:
+
+    Real-World Problem
+            ↓
+    Understand the Problem
+            ↓
+    Understand the System
+            ↓
+    Model the Constraints
+            ↓
+    Design a Solution
+            ↓
+    Build & Implement
+            ↓
+    Test
+            ↓
+    Measure
+            ↓
+    Understand Failure
+            ↓
+    Iterate
+
+I am particularly interested in the gap between:
+
+> **"It works in a demonstration."**
+
+and
+
+> **"It works reliably in the real world."**
 
 ---
 
-What I am working toward
+## Robotics & Autonomous Systems
 
-🤖 Decentralized Multi-Agent Robotics
+My main technical interest is in systems that can **perceive, decide, coordinate, and act** without requiring every decision to be explicitly controlled by a human.
 
-I am exploring decentralized architectures for robot teams where individual agents do not depend on a single centralized controller.
+This has led me toward areas such as:
 
-The problems I am most interested in include:
+- Robot perception
+- State estimation
+- Autonomous navigation
+- Multi-agent coordination
+- Distributed decision-making
+- Task allocation
+- Robot learning
+- Sensor fusion
+- Edge computation
+- Embedded control
 
-- coordination with limited communication
-- distributed task allocation
-- collision and deadlock avoidance
-- teammate-state and intention inference
-- robustness to communication failures
-- computational constraints on edge hardware
-- scaling coordination from small teams to larger swarms
-
-Rather than treating decentralization as an end in itself, I am interested in understanding when decentralization actually provides an advantage and what information is necessary for coordination.
-
-🧠 Robot Learning & Adaptation
-
-I am also investigating ways of making robots easier to deploy in new environments.
-
-One direction I am particularly interested in is reducing the gap between:
-
-demonstration → learned task representation → deployment → adaptation
-
-The long-term goal is to make autonomous systems capable of learning useful behaviours without requiring every new environment or task to be manually engineered from scratch.
-
-🚁 Physical Robotics
-
-I enjoy taking ideas all the way down to hardware.
-
-One of my ongoing projects is a small phone-assisted follow drone, exploring a lightweight architecture using embedded flight control, optical flow, ToF sensing, and a smartphone as a higher-level perception/navigation system.
-
-I am interested in the complete stack:
-
-sensors → estimation → planning → control → communication → hardware
+I am especially interested in systems where individual robots have limited information and computation, yet still need to coordinate effectively with other agents.
 
 ---
 
-Research Interests
+## 🐝 Multi-Agent & Swarm Systems
 
-My current research interests are intentionally broad while I build stronger foundations:
+One of the questions I am currently exploring is:
 
-Primary
+> **How much information does an autonomous agent actually need about its teammates to coordinate effectively?**
 
-- Multi-Agent Systems
-- Swarm Robotics
-- Decentralized Coordination
-- Robot Learning
-- Autonomous Navigation
-- Distributed Intelligence
+This leads into problems involving:
 
-Supporting
+- Decentralized coordination
+- Communication efficiency
+- Teammate-state inference
+- Intention inference
+- Distributed task allocation
+- Collision and deadlock avoidance
+- Robustness to communication failures
+- Scalability of coordination
 
-- Embedded Systems
-- Computer Vision
-- Edge AI
-- Sensor Fusion
-- Control Systems
-- Human-Robot Interaction
-- Simulation
+Rather than assuming that more communication is always better, I am interested in understanding the relationship between:
 
-I am especially interested in information-efficient coordination: understanding what information an autonomous agent actually needs about its teammates to make good decisions.
+    Information Available
+            ↓
+    Agent's Understanding
+            ↓
+    Decision Quality
+            ↓
+    Team-Level Performance
 
----
-
-Engineering Stack
-
-Robotics
-
-"ROS 2" · "Gazebo" · "Computer Vision" · "Sensor Fusion" · "Navigation"
-
-Embedded
-
-"C/C++" · "Python" · "ESP32" · "Microcontrollers" · "Sensors" · "Electronics"
-
-Systems
-
-"Linux" · "WSL2" · "Git" · "Nix/NixOS" · "Distributed Systems"
-
-Development
-
-"Python" · "C/C++" · "GitHub" · "Zed" · "CMake"
-
-Design & Fabrication
-
-"Fusion 360" · "FreeCAD" · "KiCad"
+This is an area I am currently exploring rather than claiming as an established research specialty.
 
 ---
 
-Current Projects
+## 🧠 Robot Learning & Adaptation
 
-🚁 Pocket Follow Drone
+Another direction I am interested in is making autonomous systems easier to adapt to new tasks and environments.
 
-A compact autonomous follow-drone prototype designed around a lightweight embedded flight controller and a smartphone-assisted high-level navigation architecture.
+In particular, I am interested in the pipeline between:
 
-Focus:
-Optical Flow · ToF · IMU · Embedded Control · Mobile Robotics
+    Demonstration
+          ↓
+    Task Representation
+          ↓
+    Learning
+          ↓
+    Deployment
+          ↓
+    Adaptation
 
----
+A major motivation here is practical:
 
-🐝 Decentralized Multi-Agent Systems
+**How can we reduce the amount of manual engineering required whenever a robot encounters a new task or environment?**
 
-Exploring decentralized coordination for teams of autonomous robots, with particular interest in communication efficiency, local decision-making, task allocation, and robustness.
-
-Focus:
-Swarm Robotics · Multi-Agent Coordination · Distributed Decision Making
-
----
-
-🔬 Coordination & Information Efficiency
-
-An ongoing research direction investigating how much information an autonomous robot needs to infer the state or intentions of its teammates, and how coordination performance changes as available information is reduced.
-
-Focus:
-Multi-Agent Systems · Information Efficiency · Teammate Inference · Coordination
+I am still exploring the appropriate approaches to this problem, rather than being committed to a particular learning method.
 
 ---
 
-Philosophy
+## 🚁 Projects
 
-I am less interested in collecting technologies and more interested in understanding why a system works.
+### Pocket Follow Drone
 
-For every project, I try to move through the entire stack:
+A compact follow-drone project exploring a lightweight architecture in which a smartphone acts as a high-level sensing and navigation component while an embedded controller handles the low-level flight system.
 
-Problem
-  ↓
-Model
-  ↓
-Algorithm
-  ↓
-System Architecture
-  ↓
-Implementation
-  ↓
-Hardware / Simulation
-  ↓
-Measurement
-  ↓
-Iteration
+Current concepts include:
 
-I am particularly interested in projects where the interesting part is not simply making something work once, but understanding how well it works, why it fails, and how it scales.
+- ESP32-based flight control
+- IMU
+- Optical Flow
+- Time-of-Flight sensing
+- Smartphone-assisted positioning and navigation
+- Lightweight communication architecture
+
+The project is an attempt to explore the complete robotics stack:
+
+    Sensors
+       ↓
+    State Estimation
+       ↓
+    Perception
+       ↓
+    Navigation
+       ↓
+    Control
+       ↓
+    Hardware
 
 ---
 
-Currently Learning
+### Decentralized Multi-Agent Robotics
 
-- Control theory and robotics fundamentals
+An ongoing exploration into decentralized coordination for teams of autonomous robots, particularly in environments where centralized planning becomes inefficient or fragile.
+
+Areas of interest include:
+
+- Distributed task allocation
+- Local decision-making
+- Conflict resolution
+- Collision avoidance
+- Deadlock recovery
+- Communication efficiency
+- Network failure resilience
+- Edge computation
+
+The focus is not simply on making a decentralized system, but on understanding **when decentralization is actually useful and what trade-offs it introduces**.
+
+---
+
+### Coordination & Information Efficiency
+
+A research direction exploring how reducing the information available to individual agents affects multi-agent coordination.
+
+The broader question is:
+
+> **What is the minimum information an agent needs to make sufficiently good decisions about its teammates?**
+
+The goal is to investigate this experimentally rather than assuming that a particular communication strategy is optimal.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Robotics
+
+`ROS 2` · `Gazebo` · `Computer Vision` · `Sensor Fusion` · `Navigation`
+
+### Programming
+
+`C/C++` · `Python` · `Bash`
+
+### Embedded Systems
+
+`ESP32` · `Microcontrollers` · `IMUs` · `Optical Flow` · `ToF` · `Sensors`
+
+### Systems
+
+`Linux` · `WSL2` · `Git` · `Nix/NixOS` · `Distributed Systems`
+
+### Development
+
+`CMake` · `GitHub` · `Zed`
+
+### CAD & Electronics
+
+`Fusion 360` · `FreeCAD` · `KiCad`
+
+---
+
+## 📚 Currently Learning
+
+I am currently focused on strengthening the foundations behind the systems I want to build:
+
+- Control systems
+- Robotics
+- State estimation
 - Multi-agent systems
 - Distributed algorithms
-- Robot perception and state estimation
-- Reinforcement / imitation learning
+- Robot perception
+- Computer vision
+- Robot learning
 - Embedded systems
-- ROS 2 and robot simulation
-- Electronics and PCB design
-- Mathematical foundations for robotics and AI
+- Electronics
+- Mathematical foundations for autonomous systems
+
+I am deliberately trying to understand the fundamentals rather than simply learning frameworks and libraries.
 
 ---
 
-A Few Things About Me
+## 🔬 Areas I Want to Explore
+
+My interests are still evolving, but the areas I currently find most compelling are:
+
+**Robotics**  
+Autonomous Systems · Swarm Robotics · Multi-Agent Systems
+
+**Intelligence**  
+Robot Learning · Perception · State Estimation · Decision Making
+
+**Systems**  
+Distributed Systems · Edge Computing · Communication-Constrained Systems
+
+**Hardware**  
+Embedded Systems · Sensors · Control Hardware · Robotics Electronics
+
+---
+
+## ⚡ A Little More About Me
 
 - 🎓 Engineering student
-- 🤖 Interested in robotics more than purely software systems
-- 🔬 Research-oriented, but strongly implementation-driven
-- 🛠️ Prefer building and testing ideas over keeping them theoretical
-- 🐧 Comfortable working in Linux-based development environments
+- 🤖 More interested in physical autonomous systems than purely software applications
+- 🛠️ I like taking ideas from concepts to actual implementations
+- 🔬 Interested in research, but strongly motivated by practical problems
+- 🧩 I enjoy understanding systems from the underlying principles up to the implementation
+- 🐧 Comfortable working with Linux-based development environments
 - 🎾 Tennis player
-- 🌱 Currently focused on building strong fundamentals rather than pretending to already have all the answers
+- 🌱 Currently focused on building strong fundamentals and learning by building
 
 ---
 
-Let's Build Something
+## 🤝 Interested In
 
-I am interested in collaborating on projects involving:
+I am always interested in projects and discussions around:
 
-Robotics · Autonomous Systems · Swarm Intelligence · Multi-Agent Systems · Embedded Systems · Distributed Systems · Robot Learning
+**Robotics · Autonomous Systems · Swarm Intelligence · Multi-Agent Systems · Embedded Systems · Distributed Systems · Robot Learning**
 
-If you are working on something in these areas, feel free to reach out.
+If you are working on something interesting in these areas, feel free to reach out.
 
 ---
 
 <p align="center">
-  <i>Building systems that can perceive, decide, coordinate, and act.</i>
+  <i>Understanding the system. Building the solution. Testing it against reality.</i>
 </p>
