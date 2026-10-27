@@ -1,8 +1,8 @@
 # S. K. Parthiv Pedapati
 
-**Engineering Student · Robotics · Autonomous Systems · Distributed Intelligence**
+**Engineering Student @ SASTRA University · Entrepreneurship Cell · Robotics · Autonomous Systems · Distributed Intelligence**
 
-I am an engineering student interested in **solving real-world problems through engineering**.
+I am an engineering student at SASTRA University and a member of its Entrepreneurship Cell, interested in **solving real-world problems through engineering**.
 
 I am particularly drawn to problems where software, algorithms, and physical systems have to operate under real-world constraints — uncertainty, imperfect information, limited computation, communication limitations, changing environments, and hardware constraints.
 
@@ -140,6 +140,13 @@ I am still exploring the appropriate approaches to this problem, rather than bei
 
 ## 🚁 Projects
 
+### Built & Shipped
+
+- **[RoboRangers](https://github.com/SKParthiv/RoboRangers)** — robot built for the "Robotics for Good Youth Challenge"
+- **[Physics-Simulator](https://github.com/SKParthiv/Physics-Simulator)** — a physics simulator in Python
+- **[need-it](https://github.com/SKParthiv/need-it)** — campus errand-delivery platform; I'm building the Django/DRF/PostgreSQL backend
+- **[DSA-CPP](https://github.com/SKParthiv/DSA-CPP)** — data structures & algorithms in C++
+
 ### Pocket Follow Drone
 
 A compact follow-drone project exploring a lightweight architecture in which a smartphone acts as a high-level sensing and navigation component while an embedded controller handles the low-level flight system.
@@ -208,7 +215,7 @@ The goal is to investigate this experimentally rather than assuming that a parti
 
 ### Programming
 
-`C/C++` · `Python` · `Bash`
+`C/C++` · `Python` · `Rust (learning)` · `Bash`
 
 ### Embedded Systems
 
@@ -220,7 +227,7 @@ The goal is to investigate this experimentally rather than assuming that a parti
 
 ### Development
 
-`CMake` · `GitHub` · `Zed`
+`CMake` · `GitHub` · `Helix`
 
 ### CAD & Electronics
 
@@ -274,6 +281,8 @@ Embedded Systems · Sensors · Control Hardware · Robotics Electronics
 - 🔬 Interested in research, but strongly motivated by practical problems
 - 🧩 I enjoy understanding systems from the underlying principles up to the implementation
 - 🐧 Comfortable working with Linux-based development environments
+- ⌨️ Terminal-first workflow: Git, Helix, no IDE tax
+- 🤖 Local-first AI: I run 30B-class models on my own GPU and orchestrate them into coding workflows — tools I direct, not services I rent
 - 🎾 Tennis player
 - 🌱 Currently focused on building strong fundamentals and learning by building
 
@@ -286,6 +295,7 @@ I am always interested in projects and discussions around:
 **Robotics · Autonomous Systems · Swarm Intelligence · Multi-Agent Systems · Embedded Systems · Distributed Systems · Robot Learning**
 
 If you are working on something interesting in these areas, feel free to reach out.
+Find me on [LinkedIn](https://www.linkedin.com/in/parthiv-sk/).
 
 ---
 
